@@ -104,6 +104,13 @@ Synapse and Airflow in an enterprise build, is in
 
 ## Documentation
 
+All documentation is also available as PDF in `docs/pdf/`, including a single
+combined **reading pack** (24 pages, with contents page). Regenerate with:
+
+```bash
+python scripts/md_to_pdf.py
+```
+
 | Document | Contents |
 |---|---|
 | [`docs/business_requirements.md`](docs/business_requirements.md) | Client, objective, 20 functional requirements, risks, acceptance criteria |

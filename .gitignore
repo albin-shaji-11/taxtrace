@@ -1,6 +1,7 @@
 # Generated data. Regenerate with: python scripts/generate_data.py
 data/
 reports/
+!docs/pdf/
 !data/.gitkeep
 
 # Python

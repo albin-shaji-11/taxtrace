@@ -144,3 +144,5 @@ Actions. Runs entirely locally. No paid services, no cloud account required.
    `Decimal(ROUND_HALF_UP)`.
 5. **Raw data is immutable.** Everything is re-derivable from the landing zone,
    which is what makes a six-month-late rate correction possible.
+
+test

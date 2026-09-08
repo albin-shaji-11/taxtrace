@@ -1,0 +1,19 @@
+# Day 1
+pandas>=2.2
+numpy>=1.26
+PyYAML>=6.0
+
+# Day 2 onward
+duckdb>=1.0
+polars>=1.0
+pyarrow>=15.0
+
+# Testing and quality
+pytest>=8.0
+pytest-cov>=5.0
+ruff>=0.5
+
+# Reporting, added when needed
+# matplotlib>=3.8
+# streamlit>=1.35
+# hypothesis>=6.100
